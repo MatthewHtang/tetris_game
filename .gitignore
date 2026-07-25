@@ -20,4 +20,8 @@ ENV/
 Thumbs.db
 
 #Temp Files
+<<<<<<< Updated upstream
 test.py
+=======
+/test.py
+>>>>>>> Stashed changes
